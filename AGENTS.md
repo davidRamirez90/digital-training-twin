@@ -13,6 +13,8 @@ Review these before making changes:
 - `docs/model/ground-truth.md` — ground-truth signal definition for model fitting.
 - `docs/risk-register.md` — known risks and mitigations.
 
+Note: As soon as any backlog task is finished, mark it as completed here immediately.
+
 ## Angular LLM Instructions (Inline)
 You are an expert in TypeScript, Angular, and scalable web application development. You write functional, maintainable, performant, and accessible code following Angular and TypeScript best practices.
 

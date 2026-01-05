@@ -8,14 +8,14 @@
 
 ## Phase 0 — Project setup & working agreements
 
-- [ ] Create repository structure (mono-repo vs split FE/BE) and document the decision in `docs/architecture/repo-structure.md`.
-- [ ] Define coding standards (formatters, linting, commit style) and record in `docs/dev-standards.md`.
-- [ ] Create `docs/glossary.md` (Fitness, Fatigue, Freshness, impulse, TSS/TRIMP, ΔV, ΔI, etc.).
-- [ ] Create `docs/non-goals.md` for MVP exclusions (Bluetooth control, full auto-planner, multi-user marketplace features).
-- [ ] Create `docs/mvp-definition.md` listing MVP user-visible outcomes and success criteria.
-- [ ] Decide and document the canonical impulse metric for MVP (Power-based TSS-like; HR-based fallback) in `docs/model/impulse-metric.md`.
-- [ ] Decide and document the ground-truth signal used for model fitting (e.g., compliance outcomes + rolling best-power proxy) in `docs/model/ground-truth.md`.
-- [ ] Create a risk register `docs/risk-register.md` (data access, FIT variability, time-series storage cost).
+- [x] Create repository structure (mono-repo vs split FE/BE) and document the decision in `docs/architecture/repo-structure.md`.
+- [x] Define coding standards (formatters, linting, commit style) and record in `docs/dev-standards.md`.
+- [x] Create `docs/glossary.md` (Fitness, Fatigue, Freshness, impulse, TSS/TRIMP, ΔV, ΔI, etc.).
+- [x] Create `docs/non-goals.md` for MVP exclusions (Bluetooth control, full auto-planner, multi-user marketplace features).
+- [x] Create `docs/mvp-definition.md` listing MVP user-visible outcomes and success criteria.
+- [x] Decide and document the canonical impulse metric for MVP (Power-based TSS-like; HR-based fallback) in `docs/model/impulse-metric.md`.
+- [x] Decide and document the ground-truth signal used for model fitting (e.g., compliance outcomes + rolling best-power proxy) in `docs/model/ground-truth.md`.
+- [x] Create a risk register `docs/risk-register.md` (data access, FIT variability, time-series storage cost).
 
 ## Phase 1 — Infrastructure & environments (walking skeleton)
 
