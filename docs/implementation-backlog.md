@@ -124,6 +124,9 @@
 - [ ] Show friendly error UI for failed parses (include a “reprocess” button later).
 - [ ] Create FE activity list page (latest 50) with date, duration, impulse placeholder, and status badge.
 
+### 5.6 FIT export format
+- [x] Define FIT export metadata for imported workout name and indoor cycling classification in `docs/fit-export.md`.
+
 ## Phase 6 — Metric normalization (Impulse, TSS-like, TRIMP fallback)
 
 ### 6.1 Settings prerequisites
